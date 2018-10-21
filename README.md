@@ -1,5 +1,5 @@
 # android-ActionBarCompat-ShareActionProvider
-This resource from googlesamples/android-ActionBarCompat-ShareActionProvider with my development using android 3.2.1
+This resource from [googlesamples](https://github.com/googlesamples/android-ActionBarCompat-ShareActionProvider) with my development using android 3.2.1
 
 # Introduction
 The sample contains a [ViewPager](https://developer.android.com/reference/android/support/v4/view/ViewPager) which displays content of differing types: image and text. When a new item is selected in the ViewPager, the [ShareActionProvider](https://developer.android.com/reference/android/widget/ShareActionProvider) is updated with a share intent specific to that content.
